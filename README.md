@@ -16,4 +16,11 @@ conda create --prefix ./env python=3.7 -y
 ```
 conda activate ./env
 ```
-
+### make directory command in git bash -
+```
+mkdir dir_name
+```
+### to lauch jupyter notebook in directory command in git bash -
+```
+jupyter-notebook
+```
