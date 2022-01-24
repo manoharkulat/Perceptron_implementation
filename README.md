@@ -24,3 +24,7 @@ mkdir dir_name
 ```
 jupyter-notebook
 ```
+### if backspace button not working
+```
+export TERM=xterm
+```
